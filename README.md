@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @ashutoshdhakulkar
-- 👀 I’m interested in Data Science and Data Analytics field
-- 🌱 I’m currently pursing Masters for NIT Trichy in Production Department
+- 👀 I’m interested in Data Science, Data Analytics & Supply Chain Management
+- 🌱 I’m currently pursing my Masters in Industrial Engineering & Management
 - 😄 Pronouns: He/ Him
 - ⚡ Fun fact: I am a Tangent.
 
