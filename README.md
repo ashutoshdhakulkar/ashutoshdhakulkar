@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Ashutosh Dhakulkar</h1>
-<h3 align="center">Aspiring Data Analyst Doing Masters in Industrial Engineering and Management</h3>
+<h3 align="center">Aspiring Data Analyst undergoing Masters in Industrial Engineering and Management</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ashutoshdhakulkar&label=Profile%20views&color=0e75b6&style=flat" alt="ashutoshdhakulkar" /> </p>
 
@@ -15,6 +15,8 @@
 
 - 📝 I regularly write articles on [Data Scince & Data Analytics](Data Scince & Data Analytics)
 
+- 💬 Ask me about **Supply Chain Analytics, Project Management, Financial Management ,**
+
 - 📫 How to reach me **ashutoshdhakulkar@gmail.com**
 
 - 📄 Know about my experiences [www.linkedin.com/in/ashutosh-dhakulkar-5a6a7b138](www.linkedin.com/in/ashutosh-dhakulkar-5a6a7b138)
@@ -23,6 +25,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
+<a href="https://linkedin.com/in/ashutosh dhakulkar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ashutosh dhakulkar" height="30" width="40" /></a>
 <a href="https://kaggle.com/ashutoshdhakulkar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="ashutoshdhakulkar" height="30" width="40" /></a>
 </p>
 
@@ -34,3 +37,4 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ashutoshdhakulkar&show_icons=true&locale=en" alt="ashutoshdhakulkar" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ashutoshdhakulkar&" alt="ashutoshdhakulkar" /></p>
+
