@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Ashutosh Dhakulkar</h1>
-<h3 align="center">Aspiring Data Analyst undergoing Masters in Industrial Engineering and Management</h3>
+<h3 align="center">Aspiring Data Analyst undergoing Masters at Industrial Engineering and Management</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ashutoshdhakulkar&label=Profile%20views&color=0e75b6&style=flat" alt="ashutoshdhakulkar" /> </p>
 
